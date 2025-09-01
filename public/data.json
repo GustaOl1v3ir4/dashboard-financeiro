@@ -1,0 +1,35 @@
+[
+  {
+    "id": "t1", "description": "Salário", "amount": 7500, "category": "Receita", "date": "2025-08-05", "type": "renda"
+  },
+  {
+    "id": "t2", "description": "Aluguel", "amount": 1800, "category": "Moradia", "date": "2025-08-10", "type": "despesa"
+  },
+  {
+    "id": "t3", "description": "Supermercado", "amount": 650, "category": "Alimentação", "date": "2025-08-12", "type": "despesa"
+  },
+  {
+    "id": "t4", "description": "Conta de Internet", "amount": 120, "category": "Contas", "date": "2025-08-15", "type": "despesa"
+  },
+  {
+    "id": "t5", "description": "Restaurante", "amount": 180, "category": "Lazer", "date": "2025-08-18", "type": "despesa"
+  },
+  {
+    "id": "t6", "description": "Freelance", "amount": 1200, "category": "Receita", "date": "2025-08-20", "type": "renda"
+  },
+  {
+    "id": "t7", "description": "Academia", "amount": 150, "category": "Saúde", "date": "2025-08-22", "type": "despesa"
+  },
+  {
+    "id": "t8", "description": "Gasolina", "amount": 250, "category": "Transporte", "date": "2025-08-25", "type": "despesa"
+  },
+  {
+    "id": "t9", "description": "Salário", "amount": 7500, "category": "Receita", "date": "2025-07-05", "type": "renda"
+  },
+  {
+    "id": "t10", "description": "Aluguel", "amount": 1800, "category": "Moradia", "date": "2025-07-10", "type": "despesa"
+  },
+  {
+    "id": "t11", "description": "Viagem", "amount": 1200, "category": "Lazer", "date": "2025-07-19", "type": "despesa"
+  }
+]

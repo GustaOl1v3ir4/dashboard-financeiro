@@ -1,0 +1,11 @@
+.app-layut {
+    display: flex;
+}
+
+.content-area {
+    flex-grow: 1;
+    padding: rem;
+    margin-left: 250px;
+    background-color: #f4f7fa;
+    min-height: 100vh;
+}

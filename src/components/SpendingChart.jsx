@@ -55,7 +55,7 @@ const SpendingChart = ({ transactions}) => {
                         ? '#4caf50'
                         : filtro === 'despesa'
                         ? '#f44336'
-                        : '#2196f3'
+                        : '#ffd700'
                 }
                 strokeWidth={2}
              />

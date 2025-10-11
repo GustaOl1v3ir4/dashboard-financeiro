@@ -1,20 +1,21 @@
+/* src/pages/Relatorios.css */
+
 .reports-page h1 {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
-.reports-grid{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+.reports-grid {
+  display: grid;
+  /* Removemos o grid-template-columns */
+  grid-auto-flow: row; /* Organiza os itens em linhas */
+  gap: 2rem;
 }
 
 .report-module {
-    background-color: #fff;
-    padding: 1.5rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
 }
 
-.reports-grid > .report-module:first-child {
-    grid-column: 1 / -1;
-}
+/* Removemos a regra que fazia o primeiro item ocupar a tela toda */
